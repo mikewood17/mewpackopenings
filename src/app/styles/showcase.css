@@ -1,0 +1,36 @@
+.headingContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imgGallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 50px;
+}
+
+.showcaseImg {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 740px;
+  border: 1px solid #888;
+  box-shadow: 0 3px 35px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.showcaseImg img {
+  max-height: 500px;
+}
+.imgContent {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.imgContent h4 {
+  color: #0d2137;
+}
