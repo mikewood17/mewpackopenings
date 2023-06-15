@@ -31,8 +31,8 @@ export default function Showcase() {
               <small>Vivid Voltage 188/185</small>
             </p>
             <p>
-              After no hits from an ETB I was left with my first ever vivid voltage pack where I said 'Its okay cos theres a
-              Chunkuchu in here'. And here we are.
+              After no hits from an ETB I was left with my first ever vivid voltage pack where I said &apos;Its okay cos
+              theres a Chunkuchu in here&apos;. And here we are.
             </p>
           </div>
         </div>
@@ -57,8 +57,8 @@ export default function Showcase() {
               <small>Evolving Skies 189/203</small>
             </p>
             <p>
-              Who doesnt love an Umbreon? This artwork is amazing and the only Evolving Skies hit I got that wasnt terribly
-              off centre.
+              Who doesn&apos;t love an Umbreon? This artwork is amazing and the only Evolving Skies hit I got that
+              wasn&apos;t terribly off centre.
             </p>
           </div>
         </div>
